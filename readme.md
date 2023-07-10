@@ -49,6 +49,13 @@
     <tr>
       <td>Dia de definir os requisitos funcionais, não funcionais e regras de negócio do sistema para poder dar continuidade ao desenvolvimento.</td>
     </tr>
+    <tr>
+      <th>10/07/2023</th> 
+    </tr>
+    <tr>
+      <td>Foi dado início à prototipação de telas. Nesta parte do processo, irei utilizar uma ferramenta chamada <b>Figma</b> para ilustrar e deixar minimamente interativa a 
+      experiência com as principais telas do sistema.</td>
+    </tr>
   </table>
 
    <h3>Modelo Lógico</h3>
@@ -261,4 +268,9 @@
       <td>CASO SEJA ESCOLHIDO O MODO DE PARCELA VARIÁVEL, A SOMA DOS VALORES DA PARCELA DEVERÁ SER IGUAL AO VALOR TOTAL DO LANÇAMENTO.</td>
     </tr>
    </table>
+
+   <h3>Prptotipação de Telas</h3>
+   <hr>
+
+   <p>A prototipação de telas pode ser acompanhada em tempo real <a href="http://surl.li/iyqsr">NESTE LINK</a></p>
 </div>
