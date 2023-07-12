@@ -56,6 +56,18 @@
       <td>Foi dado início à prototipação de telas. Nesta parte do processo, irei utilizar uma ferramenta chamada <b>Figma</b> para ilustrar e deixar minimamente interativa a 
       experiência com as principais telas do sistema.</td>
     </tr>
+    <tr>
+      <th>11/07/2023</th> 
+    </tr>
+    <tr>
+      <td>Dando continuidade à prototipação de telas do sistema.</td>
+    </tr>
+    <tr>
+      <th>12/07/2023</th> 
+    </tr>
+    <tr>
+      <td>Dando continuidade à prototipação de telas do sistema.</td>
+    </tr>
   </table>
 
    <h3>Modelo Lógico</h3>
@@ -79,73 +91,73 @@
       <td>RF0101</td>
       <td>CADASTRAR USUÁRIOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0102</td>
       <td>EDITAR USUÁRIOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0201</td>
       <td>CADASTRAR PROCESSOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0202</td>
       <td>EDITAR PROCESSOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0203</td>
       <td>CADASTRAR FASE DO PROCESSO</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0204</td>
       <td>EDITAR FASE DO PROCESSO</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0301</td>
       <td>CADASTRAR ATIVIDADES</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0302</td>
       <td>EDITAR ATIVIDADES</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0401</td>
       <td>CADASTRAR CONTA BANCÁRIA</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0402</td>
       <td>EDITAR CONTA BANCÁRIA</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0403</td>
       <td>CADASTRAR LANÇAMENTOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RF0404</td>
       <td>EDITAR LANÇAMENTOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
    </table>
 
@@ -163,55 +175,55 @@
       <td>RNF0101</td>
       <td>DEVE HAVER UM SISTEMA DE LOGIN DE USUÁRIOS</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0102</td>
       <td>DEVE HAVER UM CONTROLE DE ACESSO POR NÍVEL DE USUÁRIO</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0103</td>
       <td>O CONTROLE DE ACESSO DE PÁGINA POR NÍVEL DE USUÁRIO DEVERÁ SER FEITO PELO ADMINISTRADOR DO SISTEMA</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0201</td>
       <td>O SISTEMA DEVE POSSIBILITAR CRIAR UM GRUPO DE RESPONSÁVEIS PELO PROCESSO</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0301</td>
       <td>O SISTEMA DEVE POSSIBILITAR CRIAR UM GRUPO DE RESPONSÁVEIS PELA ATIVIDADE</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0401</td>
       <td>O SISTEMA DEVERÁ TER UMA TELA DE PREVISÃO DE FLUXO</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0402</td>
       <td>O SISTEMA DEVERÁ TER UMA TELA DE CONTAS A PAGAR E A RECEBER</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0403</td>
       <td>O SISTEMA DEVERÁ TER UMA TELA DE LANÇAMENTOS EM CONTA</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
     <tr>
       <td>RNF0404</td>
       <td>O SISTEMA DEVE POSSUIR OPÇÃO DE PARCELAS FIXAS E VARIÁVEIS CONFORME DATA</td>
       <td>NÃO INICIADO</td>
-      <td>[]</td>
+      <td>[ ]</td>
     </tr>
    </table>
 
@@ -272,5 +284,5 @@
    <h3>Prptotipação de Telas</h3>
    <hr>
 
-   <p>A prototipação de telas pode ser acompanhada em tempo real <a href="http://surl.li/iyqsr">NESTE LINK</a></p>
+   <p>A prototipação de telas pode ser acompanhada em tempo real <a href="https://abre.ai/gq99">NESTE LINK</a></p>
 </div>
