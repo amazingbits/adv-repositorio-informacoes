@@ -68,6 +68,12 @@
     <tr>
       <td>Dando continuidade à prototipação de telas do sistema.</td>
     </tr>
+    <tr>
+      <th>13/07/2023</th> 
+    </tr>
+    <tr>
+      <td>Dando continuidade à prototipação de telas do sistema.</td>
+    </tr>
   </table>
 
    <h3>Modelo Lógico</h3>
@@ -284,5 +290,5 @@
    <h3>Prptotipação de Telas</h3>
    <hr>
 
-   <p>A prototipação de telas pode ser acompanhada em tempo real <a href="https://abre.ai/gq99">NESTE LINK</a></p>
+   <p>A prototipação de telas pode ser acompanhada em tempo real <a href="https://abre.ai/grBB">NESTE LINK</a></p>
 </div>
